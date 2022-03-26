@@ -1,4 +1,4 @@
-# SHAPEAI WEB DEV BOOTCAMP
+# Phoenix Club WEB DEV BOOTCAMP
 Hi I made this project during the 3 Days Workshop, conducted by <b> Phoenix Club
 </b>.
 I got to learn a lot during these 3 days and it was an amazing experience learning with Club Phoenix.
