@@ -3,7 +3,7 @@ Hi I made this project during the 3 Days Workshop, conducted by <b> Phoenix Club
 </b>.
 I got to learn a lot during these 3 days and it was an amazing experience learning with Club Phoenix.
 <br><br>
-<img src="![WhatsApp Image 2022-03-21 at 19 33 53](https://user-images.githubusercontent.com/59494745/160250954-43638ab0-b5ec-494c-9592-390ef24a3091.jpeg)
+<img src="(https://user-images.githubusercontent.com/59494745/160250954-43638ab0-b5ec-494c-9592-390ef24a3091.jpeg)
 "> </a>
 <br>I got to have hands on experience on:
 <li>HTML
